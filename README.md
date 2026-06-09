@@ -59,11 +59,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandrika-63&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Chandrika-63&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandriak-63&layout=compact&theme=tokyonight)
-
----
 
 ## ✨ Quote
 
