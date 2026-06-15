@@ -13,17 +13,14 @@
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
-- Data Science
 
 🌱 Currently Learning:
 - Python for AI/ML
 - Deep Learning Frameworks
-- Data Analytics
 - Cloud Technologies
 
 👯 Open to Collaborate On:
 - AI/ML Projects
-- Data Science Projects
 - Open Source Contributions
 
 📫 Reach me at:
